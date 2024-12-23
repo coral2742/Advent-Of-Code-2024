@@ -1,3 +1,8 @@
+'''
+Challenge: https://adventofcode.com/2024/day/4
+By Coral Izquierdo Muñiz with ❤️
+'''
+
 import os
 
 def count_horizontal(lines, word):

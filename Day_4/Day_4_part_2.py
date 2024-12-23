@@ -1,3 +1,8 @@
+'''
+Challenge: https://adventofcode.com/2024/day/2
+By Coral Izquierdo Muñiz with ❤️
+'''
+
 import os
 
 def count_x_mas_patterns(grid):
